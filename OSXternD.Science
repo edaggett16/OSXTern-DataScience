@@ -1,0 +1,21 @@
+Research focal point: How popular/used is the application at this point in its development, and how could 
+the Community Highlights feature do more. 
+
+* Stanard deviation of user x coordinates:    0.010391142
+* Standard deviation of users y coordinates:  0.009907262
+* User appearance on the timestamp log appears to be sporadic at times
+* All timestamp logs are bewtween May and July
+* Some user's location hardly appear on the user log
+
+  - Assuming that the coordinates represent longitue and lattitude, a lot of users seem to be located in a very 
+    concentrated area. Feature could be updated to act as a small scale GPS within a certain range or deliver 
+    incoming weather updates.
+    
+  - The use of location services aren't always needed therefore, some users may disconnect to save battery power
+    and, or data. Feature could be updated to optimize performance efficieny.
+    
+  - Feature traffic appears peak in the summer months. Feature could display attractions close to the location 
+    of the user. 
+    
+  - Connection to Community Highlights may not be providing more benefits than costs to seldom users. 
+  
